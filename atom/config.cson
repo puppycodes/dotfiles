@@ -1,0 +1,13 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "welcome"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "Wild-Cherry"
+    ]
+  "exception-reporting":
+    userId: "afad7a47-f746-4787-bdb4-f06ee7a9c653"
