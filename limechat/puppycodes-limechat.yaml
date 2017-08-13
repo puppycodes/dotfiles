@@ -1,0 +1,54 @@
+# All colors must be in the form of '#rrggbb' or '#rgb'.
+# You cannot use color names.
+
+log-view:
+  nickname-format: '%n'
+  scroller-highlight-color: '#fff'
+input-text:
+  font-family: 'DejaVu Sans Mono for Powerline'
+  font-size: 13.0
+  background-color: '#2A1F4E'
+  color: '#fff'
+  selected:
+    background-color: '#2A1F4E'
+member-list:
+  font-family: 'DejaVu Sans Mono for Powerline'
+  font-size: 13.0
+  color: '#DF84FF'
+  background-color: '#2A1F4E'
+  operator:
+    color: '#fff'
+  selected:
+    color: '#ffc0cb'
+    background:
+      # gradient
+      top-line-color: '#2A1F4E'
+      bottom-line-color: '#2A1F4E'
+      top-color: '#2A1F4E'
+      bottom-color: '#2A1F4E'
+server-tree:
+  font-family: 'DejaVu Sans Mono for Powerline'
+  font-size: 13.0
+  background-color: '#2A1F4E'
+  highlight:
+    color: '#fff'
+  newtalk:
+    color: '#fff'
+  unread:
+    color: '#fff'
+  normal:
+    active:
+      color: '#fff'
+    inactive:
+      color: '#CFCFCF'
+  selected:
+    active:
+      color: '#ffc0cb'
+    inactive:
+      color: '#5F73A4'
+    background:
+      # gradient
+      top-line-color: '#2A1F4E'
+      bottom-line-color: '#2A1F4E'
+      top-color: '#2A1F4E'
+      bottom-color: '#2A1F4E'
