@@ -1,0 +1,6 @@
+[user]
+	name = puppycodes
+	email = alice@jodie.io
+[core]
+	editor = atom
+	excludesfile = /Users/alice/.gitignore

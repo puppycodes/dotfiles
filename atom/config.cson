@@ -2,12 +2,17 @@
   core:
     disabledPackages: [
       "wrap-guide"
-      "welcome"
+      "background-tips"
     ]
+    excludeVcsIgnoredPaths: false
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
       "Wild-Cherry"
     ]
+  editor:
+    fontSize: 15
   "exception-reporting":
-    userId: "afad7a47-f746-4787-bdb4-f06ee7a9c653"
+    userId: "5a512b89-5de8-458a-bf84-0489736c1f85"
+  welcome:
+    showOnStartup: false
